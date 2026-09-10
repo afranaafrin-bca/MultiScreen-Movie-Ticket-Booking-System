@@ -151,9 +151,6 @@ public class BookingConfirmationGUI {
 
             posterPath = "/MoviePoster/Sirai.jpg";
 
-        } else if (movie.equalsIgnoreCase("Hi Naana")) {
-
-            posterPath = "/MoviePoster/HiNaana.jpg";
 
         } else {
 
